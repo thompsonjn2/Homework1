@@ -35,3 +35,15 @@ for new_user in new_users:
     else:
         print('Ok ' + new_user + 'that username is available!')
 
+#5-11 Ordinal numbers:
+
+numbers = list = (range(1,10))
+for number in numbers:
+    if number == 1:
+        print('1st')
+    elif number == 2:
+        print('2nd')
+    elif number == 3:
+        print('3rd')
+    else:
+        print(number + 'th')
