@@ -33,7 +33,7 @@ for new_user in new_users:
     if new_user.lower in lower_current_users:
         print('Sorry ' + new_user + ', that username is taken.')
     else:
-        print('Ok ' + new_user + 'that username is available!')
+        print('Ok ' + new_user + ', that username is available!')
 
 #5-11 Ordinal numbers:
 
