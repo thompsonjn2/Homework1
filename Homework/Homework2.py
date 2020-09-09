@@ -16,7 +16,7 @@ for new_user in new_users:
         print('Ok ' + new_user + ', that username is available!')
 
 if __name__ == "__main__":
-    current_users = ['chris','haritha', 'sally', 'darnell', 'superman']
-    new_users = ['george', 'ringo', 'superman', 'hannibal']
+    current_users = ['janet', 'kayla', 'JAY', 'lucy', 'bill']
+    new_users = ['lily', 'jay', 'thomas', 'Kayla', 'patrick']
     check_users(current_users, new_users)
 
